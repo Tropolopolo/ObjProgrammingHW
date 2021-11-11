@@ -1,0 +1,4 @@
+matt,0,0,5,good
+lee,1,1,6,sick
+jack,2,0,15,critical
+george,3,1,10,fair

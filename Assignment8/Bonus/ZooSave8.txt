@@ -1,0 +1,6 @@
+Jack,50,0,19,Good,Terrestrial,Human
+Ross,6,1,31,Good,Terrestrial,Dog
+Orochimaru,8,1,56,Good,Avian,Birb
+Amaterasu no Okami,9,0,10000,Good,Amphibious,Frog
+Mark,10,1,32,Good,Terrestrial,Dog
+April,11,0,25,Bad,Avian,HummingBird
